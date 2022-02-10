@@ -16,7 +16,7 @@
   "dependencies": {
     "@vue/cli-service": "^3.9.2",
     "node": "^12.6.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "sass": "^1.22.5",
     "vue-contenteditable-directive": "^1.2.0",
     "vue-wysiwyg": "^1.7.2"
